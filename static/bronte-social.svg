@@ -100,7 +100,7 @@
     </style>
   </defs>
   <rect
-    fill="white"
+    fill='white'
     height='100%'
     width='100%'
     x='0'
@@ -145,7 +145,7 @@
     </tspan>
   </text>
   <rect
-    fill="#4A137A"
+    fill='#4A137A'
     filter='url(#dropShadowLite)'
     height='1rem'
     rx='.5rem'
