@@ -1,0 +1,16 @@
+# build
+build
+
+# environment variable
+.env
+
+# osx indexer
+.DS_Store
+
+# sui trace execution
+traces
+
+# workspace settings
+.idea
+.ignore
+.vscode
