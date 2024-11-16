@@ -70,7 +70,7 @@ $ sui move test
 Figure 1: Move Blockchain State by Greg Shen, Bucket Protocol.
 </center>
 
-## Acknowledgement
+## Acknowledgements
 
 1. [SOV Tejo](https://www.f0nt.com/release/sov-tejo) typeface by [Worawut Thanawatanawich](https://facebook.com/worawut.thanawatanawanich)
 2. [Boltz - Non-custodial Bitcoin Bridge](https://boltz.exchange)
