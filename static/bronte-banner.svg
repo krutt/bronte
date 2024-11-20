@@ -3,12 +3,11 @@
   height='250px'
   version='1.1'
   viewBox='0 0 750 250'
+  width='750px'
   xmlns='http://www.w3.org/2000/svg'
   xmlns:xlink='http://www.w3.org/1999/xlink'
   xmlns:svgjs='http://svgjs.dev/svgjs'
-  xmlns:space='default'
-  width='750px'
-  >
+  xmlns:space='default'>
   <defs>
     <filter
       height='200%'
